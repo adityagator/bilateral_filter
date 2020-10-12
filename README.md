@@ -1,2 +1,2 @@
 # bilateral_filter
-Computer Vision assignment implementing bilateral filter.
+Implement bilateral filter from scratch.
